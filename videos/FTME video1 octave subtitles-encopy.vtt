@@ -1,0 +1,844 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.538
+[BLANK_AUDIO]
+
+2
+00:00:04.538 --> 00:00:09.250
+In this section, we're going to look more
+at the vertical distances between notes.
+
+3
+00:00:09.250 --> 00:00:11.220
+If you remember back to the graph we
+originally drew and
+
+4
+00:00:11.220 --> 00:00:14.370
+we said the vertical axis represented high
+pitches or low pitches.
+
+5
+00:00:14.370 --> 00:00:17.340
+We're now going to start quantifying
+those.
+
+6
+00:00:17.340 --> 00:00:19.940
+Now, we did say that we had an octave
+
+7
+00:00:19.940 --> 00:00:23.260
+which is a real phenomenon, a phenomenon
+of nature.
+
+8
+00:00:23.260 --> 00:00:24.680
+And we said that was eight notes.
+
+9
+00:00:24.680 --> 00:00:29.830
+Of course, it's actually seven note names,
+A, B, C, D, E, F, G, back to A.
+
+10
+00:00:31.080 --> 00:00:33.300
+But, of course, if you look, for instance,
+at
+
+11
+00:00:33.300 --> 00:00:36.720
+Zack's guitar here, you'll see that there
+aren't seven notes.
+
+12
+00:00:36.720 --> 00:00:38.140
+There's a lot more.
+
+13
+00:00:38.140 --> 00:00:41.640
+>> So, we did an example where we said
+that the
+
+14
+00:00:41.640 --> 00:00:45.000
+open A string is here and then if you half
+that string.
+
+15
+00:00:47.010 --> 00:00:48.635
+It's an octave above.
+
+16
+00:00:48.635 --> 00:00:53.049
+But if we look at the, the discreet
+pitches available to us in between.
+
+17
+00:00:53.049 --> 00:00:59.242
+We've actually got, 1, 2, 3, 4, 5, 6, 7,
+8, 9,
+
+18
+00:00:59.242 --> 00:01:06.330
+10, 11, 12, and then things start to repeat
+again, actually.
+
+19
+00:01:06.330 --> 00:01:10.170
+So what we're saying is the octave on many
+musical instruments nowadays
+
+20
+00:01:10.170 --> 00:01:15.000
+isn't divided into eight, as you'd expect
+based on the prefix oct.
+
+21
+00:01:15.000 --> 00:01:17.978
+Actually, we have 12 distinct pitch
+classes.
+
+22
+00:01:17.978 --> 00:01:19.206
+>> Yeah.
+
+23
+00:01:19.206 --> 00:01:25.890
+Now, if we were to look at the piano, we
+will see the same thing again.
+
+24
+00:01:25.890 --> 00:01:28.100
+So looking at what Zack did on guitar.
+
+25
+00:01:28.100 --> 00:01:29.750
+If we look at it on the piano, instead of
+
+26
+00:01:29.750 --> 00:01:32.450
+having frets, of course we've got all of
+these white notes.
+
+27
+00:01:32.450 --> 00:01:34.700
+We've also got these black notes, which
+we're now going to introduce.
+
+28
+00:01:34.700 --> 00:01:41.261
+So, starting on A, where Zack was, 1,2,
+
+29
+00:01:41.261 --> 00:01:46.974
+3, 4, 5, 6, 7, 8, 9, 10,
+
+30
+00:01:46.974 --> 00:01:52.720
+11, 12, and then we're back to A.
+
+31
+00:01:52.720 --> 00:01:55.137
+And there's the octave [SOUND].
+
+32
+00:01:55.137 --> 00:02:03.300
+Now, going back to this A, this distance
+here is called a semitone.
+
+33
+00:02:04.300 --> 00:02:06.340
+Where semi means half.
+
+34
+00:02:06.340 --> 00:02:09.840
+If that distance is called a semitone this
+distance
+
+35
+00:02:11.900 --> 00:02:12.659
+is called a Tone.
+
+36
+00:02:13.880 --> 00:02:16.950
+Semitone, half, double it, tone.
+
+37
+00:02:19.790 --> 00:02:21.710
+That's the same on all instruments.
+
+38
+00:02:23.695 --> 00:02:25.380
+Okay, keep that thought in mind.
+
+39
+00:02:25.380 --> 00:02:28.910
+We're now going to have a look at that
+represented back on our stave.
+
+40
+00:02:28.910 --> 00:02:33.093
+Now, this semitone is the smallest
+distance that
+
+41
+00:02:33.093 --> 00:02:36.610
+we're going to work with at the moment.
+
+42
+00:02:36.610 --> 00:02:39.495
+Now, if you want to find out more about
+that, we have additional material on it.
+
+43
+00:02:39.495 --> 00:02:42.102
+But let's just say for the moment, the
+semitone is
+
+44
+00:02:42.102 --> 00:02:46.020
+the smallest working distance we can have
+between two notes.
+
+45
+00:02:46.020 --> 00:02:47.330
+Also, at this point we're going to stop
+
+46
+00:02:47.330 --> 00:02:50.510
+using A and start orientating ourselves
+around C.
+
+47
+00:02:51.790 --> 00:02:54.280
+And so, here is C on our stave.
+
+48
+00:02:55.430 --> 00:02:57.510
+The next note up on the line is D.
+
+49
+00:02:59.300 --> 00:03:04.390
+We can count from C to D, one, two.
+
+50
+00:03:04.390 --> 00:03:05.970
+It's a tone.
+
+51
+00:03:05.970 --> 00:03:07.800
+But if we're going to name it in a
+different
+
+52
+00:03:07.800 --> 00:03:10.600
+way, we can say it's an interval of a
+second.
+
+53
+00:03:10.600 --> 00:03:11.720
+One, two, a second.
+
+54
+00:03:11.720 --> 00:03:12.220
+There
+
+55
+00:03:14.260 --> 00:03:16.240
+are lots more intervals for us to look at,
+and
+
+56
+00:03:16.240 --> 00:03:18.280
+to do that we're actually going to go back
+to the keyboard.
+
+57
+00:03:19.360 --> 00:03:22.990
+>> So Richard's just talked to you about
+this interval, the second, from C to D.
+
+58
+00:03:22.990 --> 00:03:26.340
+But as he said, there's much more than
+that.
+
+59
+00:03:26.340 --> 00:03:29.510
+So let's have another look through that,
+and we'll do that within the octave.
+
+60
+00:03:29.510 --> 00:03:31.620
+So, we've got C to D.
+
+61
+00:03:33.660 --> 00:03:36.425
+There's a second, one, two.
+
+62
+00:03:36.425 --> 00:03:40.139
+We ve got C to E, 1 2 3.
+
+63
+00:03:40.139 --> 00:03:43.420
+That's a third.
+
+64
+00:03:43.420 --> 00:03:45.270
+C to F, a fourth.
+
+65
+00:03:45.270 --> 00:03:47.610
+C to G, a fifth.
+
+66
+00:03:47.610 --> 00:03:49.650
+C to A, a sixth.
+
+67
+00:03:49.650 --> 00:03:53.850
+C to B, a seventh.
+
+68
+00:03:53.850 --> 00:03:57.970
+And from C to C, we're not going to call
+that an eighth,
+
+69
+00:03:57.970 --> 00:04:00.880
+we're going to use the word that we've
+already used, which is octave.
+
+70
+00:04:03.050 --> 00:04:04.160
+But what we don't want you to think
+
+71
+00:04:04.160 --> 00:04:06.550
+is that intervals are only ever counted
+from C.
+
+72
+00:04:06.550 --> 00:04:10.140
+You know, we could go from G to A, is a
+second.
+
+73
+00:04:11.210 --> 00:04:15.060
+G to C is a fourth.
+
+74
+00:04:15.060 --> 00:04:17.300
+F to A is a third.
+
+75
+00:04:17.300 --> 00:04:19.400
+It's all about counting the space.
+
+76
+00:04:19.400 --> 00:04:21.560
+One, two, three.
+
+77
+00:04:21.560 --> 00:04:23.375
+F to A is a third.
+
+78
+00:04:26.620 --> 00:04:31.949
+Now, if we were to play B to C, for
+example.
+
+79
+00:04:34.100 --> 00:04:35.510
+We can see that this is a second.
+
+80
+00:04:35.510 --> 00:04:36.800
+One, two.
+
+81
+00:04:38.810 --> 00:04:39.340
+Okay.
+
+82
+00:04:39.340 --> 00:04:40.480
+Let's play F to G.
+
+83
+00:04:40.480 --> 00:04:41.560
+F to G.
+
+84
+00:04:41.560 --> 00:04:44.770
+There's a second.
+
+85
+00:04:44.770 --> 00:04:45.950
+One, two.
+
+86
+00:04:47.530 --> 00:04:50.866
+But actually what we see here is that the
+B to C
+
+87
+00:04:50.866 --> 00:04:56.980
+Is a second, but the C is only a semitone
+above B.
+
+88
+00:04:56.980 --> 00:05:01.840
+Whereas, for instance, F to G, 1, 2, is a
+second.
+
+89
+00:05:01.840 --> 00:05:04.360
+But G is actually a tone,
+
+90
+00:05:04.360 --> 00:05:07.090
+that's to say, two semitones above F.
+
+91
+00:05:07.090 --> 00:05:09.770
+Now, they are both seconds, and it's
+
+92
+00:05:09.770 --> 00:05:12.140
+perfectly correct to describe them that
+way.
+
+93
+00:05:12.140 --> 00:05:14.950
+But they do have a different quality.
+
+94
+00:05:14.950 --> 00:05:19.220
+We're going to talk about that more next
+week, so hold that thought, but
+
+95
+00:05:19.220 --> 00:05:23.360
+at the moment let's use that information
+and turn to think about scales.
+
+96
+00:05:24.460 --> 00:05:26.648
+So now I'm going to turn our attention to
+scales.
+
+97
+00:05:26.648 --> 00:05:29.096
+[flute plays scale]
+
+98
+00:05:29.096 --> 00:05:30.378
+There's one.
+
+99
+00:05:30.378 --> 00:05:33.270
+Scales are a pathway.
+
+100
+00:05:33.270 --> 00:05:35.890
+through an octave, okay?
+
+101
+00:05:35.890 --> 00:05:42.530
+It's like they're a pool of notes, a set
+of notes which melodies can be drawn from.
+
+102
+00:05:42.530 --> 00:05:46.051
+And if we can have that on the piano as
+well,
+
+103
+00:05:46.051 --> 00:05:48.769
+[MUSIC]
+
+104
+00:05:48.769 --> 00:05:50.850
+I could say if I was doing Julie Andrews.
+
+105
+00:05:50.850 --> 00:05:55.970
+Which is that is a Do, Re, Mi, Fa, Sol,
+La, Ti, Do.
+
+106
+00:05:55.970 --> 00:06:02.720
+But I can also say it is, C, D, E, F, G, A, B,
+C.
+
+107
+00:06:02.720 --> 00:06:06.378
+That is why we have orientated ourselves
+to C, because we've now
+
+108
+00:06:06.378 --> 00:06:10.350
+found the scale of C Major, which I'm sure
+you've heard of.
+
+109
+00:06:10.350 --> 00:06:13.310
+Which is very common throughout the world.
+
+110
+00:06:13.310 --> 00:06:16.710
+Similarities exist in many cultures, and
+it's what
+
+111
+00:06:16.710 --> 00:06:18.510
+lots of music is built on, C Major.
+
+112
+00:06:18.510 --> 00:06:20.910
+>> And an important thing for you, looking
+at this, is when you're
+
+113
+00:06:20.910 --> 00:06:24.830
+looking at your piano, it's all the white
+notes from C to C.
+
+114
+00:06:24.830 --> 00:06:28.450
+So, Richard just said that this is an
+example of a major scale.
+
+115
+00:06:29.490 --> 00:06:33.374
+And actually, what's important here, is
+the relationship between the notes.
+
+116
+00:06:34.810 --> 00:06:37.350
+The relationship between all of these
+notes that are
+
+117
+00:06:37.350 --> 00:06:39.800
+available to us within this pool of notes.
+
+118
+00:06:41.140 --> 00:06:42.320
+And actually what we have to remember
+
+119
+00:06:42.320 --> 00:06:46.160
+here is the difference between tones and
+semitones.
+
+120
+00:06:48.080 --> 00:06:50.578
+So let's look at them again on the last
+stave.
+
+121
+00:06:50.578 --> 00:06:53.310
+C to D.
+
+122
+00:06:53.310 --> 00:06:57.350
+That's a tone, so I'm going to write T
+underneath here for tone.
+
+123
+00:06:57.350 --> 00:06:59.780
+D to E another tone.
+
+124
+00:06:59.780 --> 00:07:01.499
+So here is a T.
+
+125
+00:07:01.499 --> 00:07:06.277
+E to F there is no black note in between
+so this is a semi tone.
+
+126
+00:07:06.277 --> 00:07:08.433
+Which I will show with an S.
+
+127
+00:07:08.433 --> 00:07:11.208
+F to G a tone.
+
+128
+00:07:11.208 --> 00:07:14.062
+G to A a tone.
+
+129
+00:07:14.062 --> 00:07:16.821
+A to B, a tone.
+
+130
+00:07:16.821 --> 00:07:19.580
+And again, B to C, a semitone.
+
+131
+00:07:19.580 --> 00:07:20.970
+There's no blank note in between.
+
+132
+00:07:20.970 --> 00:07:28.600
+So, that gives us a pattern of Tone, Tone,
+Semitone, Tone, Tone, Tone, Semitone.
+
+133
+00:07:28.600 --> 00:07:33.750
+>> So, this pattern of two tones and then
+a semi-tone and three more
+
+134
+00:07:33.750 --> 00:07:38.765
+tones and a final semi-tone is what makes
+this scale sound the way it does.
+
+135
+00:07:38.765 --> 00:07:42.980
+Now we could say that each note on it's own doesn't
+actually mean that much, what's
+
+136
+00:07:42.980 --> 00:07:47.830
+important is how they sound next to each
+other in the context.
+
+137
+00:07:47.830 --> 00:07:49.370
+How they stand next to each other
+
+138
+00:07:49.370 --> 00:07:51.600
+and build up relationships between one
+another.
+
+139
+00:07:52.640 --> 00:07:57.110
+What this does is it gives us the flavor,
+gives us the overall sound.
+
+140
+00:07:57.110 --> 00:07:59.700
+And if we're going to talk about that
+formally in music
+
+141
+00:07:59.700 --> 00:08:03.620
+theoretic terms, it gives us the quality
+of the scale.
+
+142
+00:08:06.660 --> 00:08:10.800
+An important piece of terminology to
+remember, then, is that the
+
+143
+00:08:10.800 --> 00:08:16.500
+letter name that the scale is named after
+is called the tonic.
+
+144
+00:08:16.500 --> 00:08:21.690
+So, in the case of C Major, C is the
+tonic.
+
+145
+00:08:21.690 --> 00:08:26.150
+In the case of F Major, F is the tonic.
+
+146
+00:08:28.460 --> 00:08:31.020
+This major scale is also an example.
+
+147
+00:08:31.020 --> 00:08:33.200
+What is called a Diatonic Scale.
+
+148
+00:08:33.200 --> 00:08:35.990
+Dia between to tonics.
+
+149
+00:08:35.990 --> 00:08:38.750
+Diatonic scales are ones where we always
+have seven
+
+150
+00:08:38.750 --> 00:08:43.430
+notes with some pattern of five tones and
+two semitones.
+
+151
+00:08:45.230 --> 00:08:49.010
+Now, lets just have a little bit of the
+scale again on the staff.
+
+152
+00:08:49.010 --> 00:08:51.000
+And, remember we said C to D was a second.
+
+153
+00:08:52.240 --> 00:08:54.530
+Zack had pointed out that B to C was
+
+154
+00:08:54.530 --> 00:08:57.420
+also a second but one of the smaller ones:.
+
+155
+00:08:57.420 --> 00:08:58.640
+A semi tone.
+
+156
+00:08:58.640 --> 00:09:00.850
+So, I'm going to put this little dart sign
+here, to
+
+157
+00:09:00.850 --> 00:09:03.630
+show that between B and C is the semi
+tone.
+
+158
+00:09:03.630 --> 00:09:06.450
+Now, the other place we have a semi tone
+is between E and F.
+
+159
+00:09:06.450 --> 00:09:09.130
+So, I'm also going to put the dart sign
+there.
+
+160
+00:09:09.130 --> 00:09:10.990
+That will just help us to see, on
+
+161
+00:09:10.990 --> 00:09:14.470
+the stave, or major scale, where the
+semitones are.
+
+162
+00:09:14.470 --> 00:09:16.750
+So, there you have it, we found C Major.
+
+163
+00:09:16.750 --> 00:09:18.340
+Through our pattern of tones and
+
+164
+00:09:18.340 --> 00:09:20.840
+semitones, we've found our first major
+scale.
+
+165
+00:09:20.840 --> 00:09:23.220
+But of course, a scale isn't just a scale.
+
+166
+00:09:23.220 --> 00:09:25.380
+A scale helps to make music.
+
+167
+00:09:25.380 --> 00:09:27.069
+C major can give us this.
+
+168
+00:09:27.069 --> 00:09:34.507
+[Piano plays Auld Langs Syne]
+
+169
+00:09:34.507 --> 00:09:35.878
+Well, we are in Scotland.
+
+170
+00:09:35.878 --> 00:09:37.504
+C major can also give us this.
+
+171
+00:09:37.504 --> 00:09:45.433
+[Flute plays Twinkle Twinkle little star]
+
+172
+00:09:45.433 --> 00:09:48.150
+And don't think I'm being patronizing
+playing Twinkle Twinkle, Little Star.
+
+173
+00:09:48.150 --> 00:09:50.110
+It's a good exemplifier of the major
+scale.
+
+174
+00:09:50.110 --> 00:09:51.640
+It's also was a good enough tune for
+
+175
+00:09:51.640 --> 00:09:54.600
+Mozart to write a whole set of variations
+on.
+
+176
+00:09:54.600 --> 00:09:58.370
+While I'm on Mozart, that brings me to a
+little disclaimer.
+
+177
+00:09:58.370 --> 00:10:01.270
+In this course, we're dealing with musical
+
+178
+00:10:01.270 --> 00:10:03.920
+techniques that are known as the Common
+Practice.
+
+179
+00:10:03.920 --> 00:10:09.479
+And the Common Practice Era is basically
+Western Europe from 1600 to 1900.
+
+180
+00:10:09.479 --> 00:10:14.640
+So, it's very much the music of Bach,
+Haydn, Mozart, Beethoven, etc.
+
+181
+00:10:15.900 --> 00:10:19.430
+but there are other forms of music around
+the world.
+
+182
+00:10:19.430 --> 00:10:20.990
+That might use different techniques.
+
+183
+00:10:20.990 --> 00:10:23.380
+Where possible, we will reference them,
+but it has to be
+
+184
+00:10:23.380 --> 00:10:25.870
+said that the common practice is a good
+system to work from.
+
+185
+00:10:25.870 --> 00:10:29.441
+It applies to quite a lot of pop and rock,
+a lot of jazz,
+
+186
+00:10:29.441 --> 00:10:34.118
+quite a lot of folk music, and so that's
+our main focus in this course.
+
+187
+00:10:34.118 --> 00:10:39.919
+[BLANK_AUDIO]

@@ -1,0 +1,768 @@
+<!DOCTYPE html> 
+<html lang="en-us">
+<html>
+    <head>
+        <meta name=" author" content="Valeria Uzoma">
+        <meta name="description" content="24/7 translation services">
+        <meta name="keywords" content="translate, Russian, Spanish, Italian, dicsount">
+        <meta charset="UTF-8"><!--In HTML, it is optional to close empty elements.
+
+            Allowed:
+            <meta charset="utf-8">
+
+            Also Allowed:<meta charset="utf-8" />
+
+            If you expect XML/XHTML software to access your page, keep the closing slash (/), because it is required in XML and XHTML.-->
+
+        <meta http-equiv="refresh" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.8">
+        <title>Home</title><!--favicon can be seen or designed in the web page https://www.favicon.cc. -->
+        <base href="" target="_blank"> <!-- the base element here will make any hyperlink open a link in a new page by default because of "target='_blank'"-->
+
+        <style>
+            form{
+                background-image: url('./images/redd-f-PTRzqc_h1r4-unsplash.jpg');
+            }
+
+            body{
+                background-image: url('./images/scott-webb-UjupleczBOY-unsplash.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+
+            
+            }
+            *{
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            iframe{
+                border:none;
+            }
+
+
+            .city{
+                background-color: #000;
+                color: #fff;
+                font-family: 'Courier New', Courier, monospace;
+            }
+
+            .main{
+                text-align: center;
+                font-weight:bold;
+            }
+
+
+            caption{
+                display:table-caption;
+                caption-side: bottom;
+                text-align:right;
+            }
+            #myparagraph {
+                background-color: #3d58a1;
+                color: #fff;
+                padding:0.6rem;
+
+            }
+            
+            table, td, th{
+                width: 5vw;
+                height: 3vh;
+                border-style: ridge;/* you can remove the border around the table by leaving out table from the css selector. This is only useful if you want borders around every other item in the table. If that is so then you have to use th,td in the selector. e.g - th, td{} instead of table, th,  td{} */
+                border-radius:0.3rem; /*there was previously a "border-collapse" tool here but I removed it because the "border-collapse" tool affects the "border radius"*/
+                border-color: #0fB2C3;
+                border-spacing: 30px;
+                border-collapse: collapse;
+                border-top: none;
+                border-left: none;
+                border-right: none;
+                border-bottom: 5px solid #ddd;
+            }
+
+            th:nth-child(odd){
+                text-align: right;  
+                padding:30px; 
+                background-color: rgba(200,110, 230, 0.4);            
+            }
+
+            td:nth-child(odd){
+                text-align: center;
+                padding-top: 10px;
+                padding-bottom: 30px;
+                padding-left: 60px;
+                padding-right: 15px;
+                background-color: rgba(200,110, 230, 0.4);
+            }
+
+             tr:nth-child(even){
+                background-color:rgba(200,110, 230, 0.4);
+
+            }/*"nth-child(odd)" highlights the table head [HERE] as well because the "thead" and "tbody" tags are separating the table into two parts. Thus, the "odd" counts using the number of rows in the "thead", THEN, the number of rows in the "tbody". */
+            
+            tr:hover {
+                background-color: blue;
+
+            }/*used to change the background color when the mouse hovers over a row. Move the mouse over the table rows to see the effect.*/
+
+            ul{
+                list-style-type:none; /*there can also be "circle", "square", or "disc(bullet)" which is the default.*/
+                margin:0;
+                padding:0;
+                overflow:hidden;
+                background-color: #6e91f3;
+            }
+
+            li{
+                float:left;
+            }
+            li a {
+                display: block;
+                color:beige;
+                text-align: center;
+                padding:16px;
+                text-decoration:none;
+            }
+            li a:hover {
+                background-color: #3d58a1;
+            }
+    .cm1{
+        text-decoration: none;
+        color: #3d58a1;
+            }
+
+        
+        </style>
+    </head>
+    <body>
+        <button type="button" onclick="alert('Welcome to Ria page')">Click Me and See What I Do</button>
+        <a class="cm1", href="#descriptionlist">Cofee and ChocoMilk</a><!--this is a bookmark using ID-->
+        
+        <ul>
+            <li><a href="#Home">Home</a></li>
+            <li><a href="#Prices">Prices</a></li>
+            <li><a href="#Languages">Languages</a></li>
+            <li><a href="#Apply">Apply</a></li>
+            <li><a href="#Contact">Contact</a></li>
+            <li><a href="#About">About</a></li>
+        </ul>
+
+        <form action="">
+            <label for="pagesearcher">Our Courses:</label>
+            <input type="search" id="pagesearcher" name="pagesearcher">
+            <input type="submit" value="Find a Course">
+
+        </form> 
+
+        
+        <!--these are block elements-->
+        <h1 align="center">Welcome to html with heading tag 1</h1>
+        <h2>Heading tag 2</h2>
+        <h3>Heading tag 3</h3>
+        <p>this is paragraph</p>
+        <hr><!-- used to insert a line across the page-->
+        <ul><!--<ul> means unordered list-->
+            <li>nice shoes</li>
+            <ul style="list-style-type:circle;">
+                <li>Clarks</li>
+                <li>Nike</li>
+            </ul>
+            <li>smooth laptop</li>
+            <ul style="list-style-type:circle;">
+                <li>hp</li>
+                <li>Apple</li>
+            </ul>
+        </ul>
+<br>
+        <ol type="A">
+            <li>shoes</li><br>
+            <li>new laptop</li>
+        </ol>
+        <br>
+        <ol type="a" start="3">
+            <li>glasses</li><br>
+            <li>hair brush</li>
+        </ol>
+        <br>
+        <ol type="I" start="5">
+            <li>comb</li><br>
+            <li>pen</li>
+        </ol>
+        <br>
+        <ol type="i" start="7"><!-- I use the start attribute to start counting from a specified number.-->
+            <li>card</li><br>
+            <li>phone</li>
+        </ol>
+        <br>
+        <ol type="1" start="9">
+            <li> earbuds</li><br><!-- line break"br" is being used multiple times here because there are codes in the style section in the "head" tag that make the list not look good without the "br" tag.-->
+            <li>folder</li>
+        </ol>
+        <br>
+        <dl>
+            <dt>merit of being a programmer</dt><!-- <dt> means descriptive term.i.e heading.-->
+            <dd>time control</dd> <!--"<dd>" is similar to <li> because it is the listed item-->
+            <dd>job opportunity</dd>    
+        </dl>
+
+        <!--these are inline elements-->
+        
+        a=3 <!--a is a parameter for checking light-->
+
+        <button>click</button> <br>
+        <i> i makes a text italic.</i>
+        <u> this text is underlined.</u>
+        <b> this text is bold.</b>
+        <strong>strong tag is alternative to b tag.</strong>
+        <em>em tag is an <span style="color: rgb(51, 207, 64);font-weight: 600;">alternative</span> to i tag.</em><!--The "<span>" element is an inline container used to mark up a part of a text, or a part of a document-->
+        <sup>this text is superscript. </sup>
+        <sub>this text is suubscript.</sub>
+        <del>this puts a line across the text</del>
+        <ins>this is the new information</ins>
+        <marquee direction="right" behavior="alternate" scrollamount="13">this can move objects on the screen.</marquee>
+        <img height="600" width="1300" src="./images/headway-5QgIuuBxKwM-unsplash.jpg" alt="Our team"> <!-- "./" is used to find the relative path of an image -->
+        <video controls muted autoplay width="200">
+            <source src="./videos/pexels-fauxels-3249902-640x360-25fps.mp4"/>
+        </video>
+        
+        <audio controls>
+            <source src=""/>
+        </audio>
+        
+        <a href="./contact.html" target="_blank">Contact</a><!-- this "a" is the anchor tag. Also "href" means hyperlink reference-->
+        <table>
+            <caption>this is class record</caption>
+            <thead>
+                <tr>
+                    <th>S/N</th>
+                    <th colspan="2">FIRSTNAME & MIDDLE NAME</th>
+                    <th>LASTNAME</th>
+                </tr>
+            </thead><!--thead is the feed name at the top of each colon-->
+            
+            <tbody>
+                <tr>
+                    <th>1</th>
+                    <td>VALERIA</td>
+                    <td>CC</td>
+                    <td>UZOMA</td>
+                </tr>
+
+                <tr>
+                    <th>2</th>
+                    <td>VAL</td>
+                    <td>GREG</td>
+                    <td>RIA</td>
+                </tr>
+
+                <tr>
+                    <th>3</th>
+                    <td>THEODORE</td>
+                    <td>STEPH</td>
+                    <td>CHIPMUNK</td>
+                </tr>
+
+                <tr>
+                    <th>4</th>
+                    <td>ALVIN</td>
+                    <td>CYNTHIA</td>
+                    <td>CHIPMUNK</td>
+                </tr>
+
+                <tr>
+                    <th>5</th>
+                    <td>SARAH</td>
+                    <td>HANNA</td>
+                    <td>MONTANNA</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table style="width: 80%;">
+            <colgroup>
+              <col span="3">
+              <col span="1" style="background-color: pink">
+              <col span="1" style="visibility:collapse">
+            </colgroup>
+            <tr>
+            <th>MON</th>
+            <th>TUE</th>
+            <th>WED</th>
+            <th>THU</th>
+            <th>FRI</th>
+            <th>SAT</th>
+            <th>SUN</th>
+            </tr>
+            <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+            <td>7</td>
+            </tr>
+            <tr>
+            <td>8</td>
+            <td>9</td>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+            <td>13</td>
+            <td>14</td>
+            </tr>
+            <tr>
+            <td>15</td>
+            <td>16</td>
+            <td>17</td>
+            <td>18</td>
+            <td>19</td>
+            <td>20</td>
+            <td>21</td>
+            </tr>
+            <tr>
+            <td>22</td>
+            <td>23</td>
+            <td>24</td>
+            <td>25</td>
+            <td>26</td>
+            <td>27</td>
+            <td>28</td>
+            </tr>
+            </table>
+
+    <fieldset>
+        <legend>This is a form</legend>
+        <form action="actionpage1.php" target="_blank" method="post" autocomplete="on" novalidate accept-charset="utf-8" enctype="multipart/form-data" id="form8">
+            <!--never use method="get" to send sensitive data because the submitted form data will be visible in the URL.
+                Also, The novalidate attribute indicates that the form input is not to be validated on submit.
+                Note that the method="get" works only with ASCII character set.
+                multipart/form-data value is necessary if the user will upload a file through the form. And the enctype attribute specifies how the form-data should be encoded when submitting it to the server.                     
+            -->
+            
+            <div>
+                <label for="name">Name</label>
+                <input type="text" id="name" required><!--the "for" and "id" are used to properly relate both label and input. Although it does not need to be used, it is more interactive when used-->
+            </div>
+
+            <div>
+                <label for="mail">Email</label>
+                <input type="email" id="mail" title="abcd@xmail.com">
+            </div>
+
+            <div>
+                <label for="pwd">Password</label>
+                <input type="password" id="pwd" title="password should contain letters, alphabets and funky characters.">
+            </div>
+
+            <div>
+                <label for="salary">Salary</label>
+                <input type="number" id="salary" autofocus>
+            </div>
+
+            <div>
+                <label for="phone">Enter your mobile number:</label><br /><br/>
+                <input type="tel" id="phone" name="phone" placeholder="+234-702-243-3192" pattern="+[0-9]{3}-[0-9]{3}-[0-9]{3}-[0-9]{4}" required><br />
+                <small>Format:+234-702-243-3192</small>
+            </div><br />
+
+            <div>
+                <label for="pincode">Pin</label>
+                <input type="text" id="pincode" name="pincode" maxlength="6" size="3"><br />
+            </div>
+    
+
+            <div>
+                <label for="photo">Photo</label>
+                <input type="file" id="photo" title="you can only choose one clear photo of yourself">
+            </div>
+
+            <div>
+                <label for="dob">DOB</label>
+                <input type="date" id="dob">
+            </div>
+            
+            <div>
+                <label for="tos">Time of Signature</label>
+                <input type="time" id="tos">
+            </div>
+            
+            <div>
+                <label for="dandt">Date and Time of Birth</label>
+                <input type="datetime-local" id="dandt">
+            </div>
+            
+            <div>
+                <label>Gender</label><br>
+                <input type="radio" name="gender">Male <!--the "name=gender" is used to declare the variable in a sense. Meaning that here, gender can either male, female or other. But never two or three at the same time-->
+                <input type="radio" name="gender"checked>Female<!--the "checked" is used when you want to make an option automatically selected after the page is opened. however, note that the option can be removed or changed. Of course "checked" does not always need to be in your code as sometimes, users do not wish to answer at all-->
+                <input type="radio" name="gender">Other
+            </div>
+            
+            <div>
+                <label>Hobbies</label><br>
+                <input type="checkbox">Reading
+                <input type="checkbox">Sleeping
+                <input type="checkbox">Eating
+                <input type="checkbox" checked>Coding
+            </div>
+
+            <div>
+                <label>Country</label>
+                <select>
+                    <option>Nigeria</option>
+                    <option>Ghana</option>
+                    <option selected>UK</option>
+                    <option>USA</option>
+                </select>
+            </div>
+
+            <div>
+                <label>Write About You</label>
+                <textarea name="shortbio"  cols="60" rows="8"></textarea><!--you can also use css to adjust the width and height of the text area.-->
+            </div><br />
+
+            <div>
+                <input type="hidden" id="applicationid" name="applicationid" value="2186">
+            </div>
+
+            <label for="coolfiles">Select a file</label>
+            <input type="file" id="coolfiles" name="coolfiles" title="attach all project files here" multiple><!--
+                The input multiple attribute specifies that the user is allowed to enter more than one value in an input field.
+                The multiple attribute works with the following input types: email, and file-->
+                <br /><br />
+
+            <input type="submit" value="SignUp as a Student" formmethod="get" formenctype="application/x-www-form-urlencoded"><!--here i have overwritten the enctype attributeof the original form element. Note that this override is only active for this specific input element.-->
+            <input type="submit" value="SignUp as a Teacher" formaction="actionpage2.php" >
+            <input type="image" src="./images/google-play.svg" alt="SignUp via Google" width="15%" height="20%" formaction="actionpage3googledatabase.php">
+
+        </form><!--by typing form then pressing enter, you will get the proper container for form. However for now we will use form without the action attribute-->
+    </fieldset>
+
+    <iframe width="500" height="300" src="./images/headway-5QgIuuBxKwM-unsplash.jpg" frameborder="10" title="workandphone"></iframe><!--Tip: It is a good practice to always include a title attribute for the <iframe>. This is used by screen readers to read out what the content of the iframe is-->
+
+<form action="" oninput="p.value=parseInt(m.value)+parseInt(n.value)">
+    0
+    <input type="range" id="m" name="m" value="30" min="1" max="220" step="2">
+    100+
+    <input type="number" id="n" name="n" value="25" min="0" max="120" step="5">
+    =
+    <output name="p" for="m n"></output>
+    <br /><br/>
+    <input type="submit">
+
+</form>
+<!--
+    Input Restrictions
+Here is a list of some common input restrictions:
+
+Attribute	Description
+checked	Specifies that an input field should be pre-selected when the page loads (for type="checkbox" or type="radio")
+disabled	Specifies that an input field should be disabled
+max	Specifies the maximum value for an input field
+maxlength	Specifies the maximum number of character for an input field
+min	Specifies the minimum value for an input field
+pattern	Specifies a regular expression to check the input value against
+readonly	Specifies that an input field is read only (cannot be changed)
+required	Specifies that an input field is required (must be filled out)
+size	Specifies the width (in characters) of an input field
+step	Specifies the legal number intervals for an input field
+value	Specifies the default value for an input field
+-->
+    <dl id="descriptionlist">
+        <dt>Cofee</dt>
+        <dd>- a hot or iced black drink</dd>
+        <dt>ChocoMilk</dt>
+        <dd>-a choclate milk drink</dd>
+    </dl>
+
+    
+    <div class="city">
+        <h2 class="city main">London</h2><!--here h2 element includes two classes city and main-->
+        <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area 3of over 13 million inhabitants.</p>
+    </div>
+    <p>Click the button to hide all elements with class name "city":</p>
+<button type="button" onclick="myFunction()">Hide some elements above</button>
+<script>
+    function myFunction() {
+      var x = document.getElementsByClassName("city");
+      for (var i = 0; i < x.length; i++) {
+        x[i].style.display ="none";
+      }
+    }
+    </script>
+
+    <p id="myparagraph"> this paragraph is styled using ID</p><!--Note: The id name is case sensitive! Note: The id name must contain at least one character, cannot start with a number, and must not contain whitespaces (spaces, tabs, etc.).-->
+
+<iframe src="./images/scott-webb-UjupleczBOY-unsplash.jpg" name="iframecontactss" height="200" width="250" frameborder="1" title="Contact Page in Iframe" ></iframe>
+<pre>This will link to the <a href="./contact.html" target="iframecontactss">Contact</a>page</pre>
+<!--When the target attribute of a link matches the name of an iframe, the link will open in the iframe-->
+
+<img src="./images/redd-f-PTRzqc_h1r4-unsplash.jpg" style="max-width:100%;height:auto;"><!--max-width and width are very important to use when making a responsive web page. Use one or the other depending on the requirement-->
+<p style="font-size:2.3vw;">Resize the browser window to see how the text size scales.</p><!--here vw is used in font-size to make sure the text size remains exactly the same relative to the screen size of the device-->
+
+<p style="font-size:2.3vw;">Use the "vw" unit when sizing the text. 10vw will set the size to 10% of the viewport width.</p>
+<img src="./images/yfuugo.PNG" style="width:20vw;height:20vh;" alt="">
+<p>Viewport is the browser window size. 1vw = 1% of viewport width. If the viewport is 50cm wide, 1vw is 0.5cm.</p>
+
+
+<p> Java script can write content in a given HTML element</p>
+
+<h3 id="h3js"></h3>
+<script>
+    document.getElementById("h3js").innerHTML="This is how JS is written within an element h3 without using funtions";
+</script>
+
+<p>Javascript can also change the content of a previously displayed HTML element using myFunction</p>
+
+<h2 id="changeable">This text will be replaced using JS</h2>
+
+<script>
+    function myFunction(){
+    document.getElementById("changeable").innerHTML="Now you See Me";
+    document.getElementById("changeable").style.color="#ff00ee";
+    document.getElementById("changeable").style.fontSize="2.5rem";
+}
+    </script>
+<button type="button" onclick="myFunction()">Click to change text</button>
+
+<form>
+    <input type="radio" id="html" name="myfav_lang" value="HTML" >
+    <label for="html">HTML</label><br />
+    <input type="radio" id="css" name="myfav_lang" value="CSS">
+    <label for="css">CSS</label><br />
+    <input type="radio" id="javascript" name="myfav_lang" value="JavaScript">
+    <label for="javascript">JavaScript</label>
+    <input type="button" value="NEXT">
+
+</form>
+
+<label for="nicecars">Choose a car:</label>
+<select id="nicecars" name="my_dream_car" size="2"><!--here you can also add a "multiple" attribute. that will make it so that multiple items can be selected on the drop down list while holding the ctrl button on pc.-->
+    <option value="mercedes_benz">Mercedes Benz</option>
+    <option value="audi">Audi</option>
+    <option value="chevrolet" selected>Chevrolet</option><!--the selected attribute changes the default option to chevrolet-->
+    <option value="porsche">Porsche</option>
+</select> 
+
+
+<label for="farawayinput">Far away Input using form ID:</label>
+<input type="text" id="farawayinput" name="farawayinput" form="form8"><!--Whatever is wriiten in this input space will be submitted along with the other inputs within the "form8"-->
+
+
+
+
+
+
+
+<!--
+    The Name Attribute for <input>
+Notice that each input field must have a name attribute to be submitted.
+
+If the name attribute is omitted, the value of the input field will not be sent at all.
+
+Example
+The example below will not submit the value of the "First name" input field: 
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" value="John"><br><br>
+  <input type="submit" value="Submit">
+</form>
+-->
+<!--
+    <head>
+<script>
+function formSubmit() {
+    document.forms["myForm"].submit();
+}
+</script>
+</head>
+<body>
+
+<h1>The form name attribute</h1>
+
+<form name="myForm" action="https://www.w3schools.com/action_page.php" method="get">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="button" onclick="formSubmit()" value="Send form data!">
+</form>
+
+<p>Notice that the JavaScript in the head section uses the name of the form to specify which form to submit.</p>
+
+-->
+
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+    </canvas>
+    
+    <script>
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+    ctx.moveTo(20,0);
+    ctx.lineTo(240,150);
+    ctx.stroke();
+    </script>
+
+<div>
+    <button onclick="playPause()">Play/Pause</button>
+    <button onclick="makeBig()">Theatre mode</button>
+    <button onclick="makeSmall()">Shrink video</button>
+    <button onclick="restoreSize()">Default size</button>
+
+    <video id="video010" width="450"  autoplay ><!--height is not added in any part of the code because it affects the responsivesness of the jsfunctions-->
+    <source  src="./videos/pexels-fauxels-3249902-640x360-25fps.mp4">
+    <track url="blahblah.vtt" label="awesometeam" kind="subtitles" srclang="en" default>
+</video>
+</div>
+
+<script>
+    var secondVideo = document.getElementById("video010");
+
+    function playPause() {
+    if (secondVideo.paused)
+      secondVideo.play();
+    else secondVideo.pause();
+}
+    function makeBig() {
+        secondVideo.width = 1250;
+        
+    }       
+    
+    function makeSmall() {
+        secondVideo.width = 250;
+    }
+    
+    function restoreSize() {
+        secondVideo.width=450;
+    }
+
+</script>
+<!--
+    HTML Audio - Media Types
+File Format	Media Type
+MP3	audio/mpeg
+OGG	audio/ogg
+WAV	audio/wav
+
+-->
+
+<!-- 
+    YouTube Autoplay + Mute
+You can let your video start playing automatically when a user visits the page, by adding autoplay=1 to the YouTube URL. 
+Add mute=1 after autoplay=1 to let your video start playing automatically (but muted). 
+Thus e.g src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
+Note that there is a question mark right after the URL and before autoplay is added. That question mark "?" is very important.
+-->
+<!--
+YouTube Loop
+Add loop=1 to let your video loop forever.
+Value 0 (default): The video will play only once.
+Value 1: The video will loop (forever).
+-->
+
+YouTube - Loop
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=tgbNymZ7vqY&loop=1">
+</iframe> 
+
+<!--
+    YouTube Controls
+Add controls=0 to not display controls in the video player.
+
+Value 0: Player controls does not display.
+
+Value 1 (default): Player controls display
+-->
+
+<button onclick="getLocation()">Your Current Location</button>
+<p id="locate"></p>
+<script>
+    var xpos = document.getElementById("locate");
+
+    function getLocation(){
+        if (navigator.geolocation){
+            navigator.geolocation.getCurrentPosition(showPosition, showError);
+        } else {
+            xpos.innerHTML = "Your browser does not support geolocation.";
+        }
+
+    }
+
+    function showPosition(position){
+       xpos.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;    
+    }
+
+
+    function showError(error){
+        switch(error.code) {
+            case error.PERMISSION_DENIED:
+                xpos.innerHTML = "User has no permission to activate geolocation."
+                break;
+            case error.POSITION_UNAVAILABLE:
+                xpos.innerHTML = "Location information is unavailable, check yo connection and try again."
+                break;
+            case error.TIMEOUT:
+                xpos.innerHTML = "Page took too long to load and has timed out. Check connection then re-load the page."
+                break;
+            case error.UNKNOWN_ERROR:
+                xpos.innerHTML = "an unknown error has occured. Hit your PC and try again. Haha."
+                break;
+        }
+    }
+
+
+</script>
+
+<button onclick="getPositions()">Turn ON GPS</button>
+<p id="changingsat"></p>
+
+<script>
+    var xyzpos = document.getElementById("changingsat");
+
+
+    function getPositions(){
+        if (navigator.geolocation){
+            navigator.geolocation.watchPosition(showPositions);
+        } else {
+            xyzpos.innerHTML = "Your Browser no dey support GPS.";
+        }
+    
+    }
+    function showPositions(position){
+        xyzpos.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: "+ position.coords.longitude;
+    }
+
+
+
+
+
+</script>
+
+<div id="result"></div>
+
+<script>
+    if (typeof(Storage) !=="undefined") {
+        localStorage.setItem("firstname", "Rialicious");
+        document.getElementById("result").innerHTML = localStorage.getItem("firstname");
+    } else {
+        document.getElementById("result").innerHTML = "Your browser does not support web storage";
+    }
+
+    
+</script>
+ 
+
+
+
+
+
+    </body>
+</html>
+
+
+
+
+
